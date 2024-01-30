@@ -6,6 +6,7 @@ function App() {
       <h1 style={{ color: "blue" }} className="div">
         Hello World!
       </h1>
+      <p>Github</p>
     </div>
   );
 }
