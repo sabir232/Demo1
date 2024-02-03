@@ -3,7 +3,7 @@ function App() {
   return (
     <div>
       <Header />
-      <h1 style={{ color: "blue" }} className="div">
+      <h1 style={{ color: "red" }} className="div">
         Hello World!
       </h1>
       <p>Github</p>
